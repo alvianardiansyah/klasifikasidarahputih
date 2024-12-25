@@ -1,2 +1,5 @@
 streamlit
 opencv-python
+streamlit-lottie
+pillow
+numpy
