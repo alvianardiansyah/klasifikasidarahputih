@@ -435,5 +435,14 @@ def main():
                     4. Validasi hasil berdasarkan karakteristik sel
                     """)
 
+# Add footer
+st.markdown("---")
+st.markdown("""
+<div style='text-align: center'>
+    <p>🧬 Sistem Klasifikasi Sel Darah Putih menggunakan Fuzzy Logic dan Image Processing</p>
+    <p>Created with ❤️ by Kelompok 3</p>
+</div>
+""", unsafe_allow_html=True)
+
 if __name__ == "__main__":
     main()
